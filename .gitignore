@@ -1,0 +1,9 @@
+node_modules/
+/dist/
+/public/build/
+.wrangler/
+.dev.vars
+.env*
+*.log
+.DS_Store
+/worker/assets.generated.ts

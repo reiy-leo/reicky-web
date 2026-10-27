@@ -1,0 +1,25 @@
+/* Radix Themes 负责样式基础；Tailwind 只引入 theme 和 utilities，不引入 preflight，免得重置掉 Radix 的样式。 */
+/* 只引入用到的颜色，CSS 体积小很多。换强调色时在这里加对应文件。 */
+@import "@radix-ui/themes/tokens/base.css";
+@import "@radix-ui/themes/tokens/colors/amber.css";
+@import "@radix-ui/themes/tokens/colors/sand.css";
+@import "@radix-ui/themes/components.css";
+@import "@radix-ui/themes/utilities.css";
+
+@layer theme, utilities;
+@import "tailwindcss/theme.css" layer(theme);
+@import "tailwindcss/utilities.css" layer(utilities);
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --default-font-family: ui-sans-serif, system-ui, -apple-system, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+}
+
+html { scroll-behavior: smooth; }
+html, body { margin: 0; }
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+a { color: inherit; }
+
+/* 日文标题按词组换行 */
+:lang(ja) h1, :lang(ja) h2, :lang(ja) h3 { word-break: auto-phrase; }
