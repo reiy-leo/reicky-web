@@ -48,7 +48,7 @@ const MCP_CONFIG = `{
   }
 }`;
 
-/** 便签颜色，和 reicky 应用里的一致（src/api.ts COLORS） */
+/** 贴纸颜色，和 reicky 应用里的一致（src/api.ts COLORS） */
 const NOTE_COLORS = [
   { light: "#fff7b1", dark: "#534d2d", edge: "#efe08a", edgeDark: "#6b6231" },
   { light: "#d6ecff", dark: "#374550", edge: "#b3d6f5", edgeDark: "#405669" },
