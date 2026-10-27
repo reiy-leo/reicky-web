@@ -1,6 +1,7 @@
 import type { Messages } from "./zh";
 
 const ja: Messages = {
+  brand: "reicky",
   meta: {
     title: "reicky · デスクトップ付箋",
     description: "macOS のスティッキーズのようなクロスプラットフォームの付箋アプリ。テキストをさっと貼り、ファイルはパスだけ記録、メモは削除せずアーカイブ。",

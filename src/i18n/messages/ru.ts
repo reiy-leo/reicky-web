@@ -1,6 +1,7 @@
 import type { Messages } from "./zh";
 
 const ru: Messages = {
+  brand: "reicky",
   meta: {
     title: "reicky · Стикеры для рабочего стола",
     description: "Кроссплатформенные стикеры, как Stickies в macOS: быстро записать текст, перетащить файл и сохранить только путь, архивировать вместо удаления.",

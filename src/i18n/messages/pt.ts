@@ -1,6 +1,7 @@
 import type { Messages } from "./zh";
 
 const pt: Messages = {
+  brand: "reicky",
   meta: {
     title: "reicky · Notas adesivas para desktop",
     description: "Notas adesivas multiplataforma, como o Stickies do macOS: anote texto, arraste arquivos para guardar só o caminho e arquive em vez de apagar.",

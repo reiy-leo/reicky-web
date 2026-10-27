@@ -1,6 +1,7 @@
 import type { Messages } from "./zh";
 
 const de: Messages = {
+  brand: "reicky",
   meta: {
     title: "reicky · Haftnotizen für den Desktop",
     description: "Plattformübergreifende Haftnotizen wie Stickies unter macOS: Text schnell notieren, Dateien hineinziehen und nur den Pfad behalten, archivieren statt löschen.",

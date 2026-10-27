@@ -1,6 +1,7 @@
 import type { Messages } from "./zh";
 
 const en: Messages = {
+  brand: "reicky",
   meta: {
     title: "reicky · Desktop sticky notes",
     description: "Cross-platform desktop sticky notes, like macOS Stickies: jot text down, drop files in to keep just their paths, and archive instead of delete.",

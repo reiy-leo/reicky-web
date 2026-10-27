@@ -64,7 +64,7 @@ function Header() {
           <a href="#top" className="flex items-center gap-2 no-underline">
             <img src="/icon.png" alt="" width={28} height={28} className="rounded-md" />
             <Text weight="bold" size="4">
-              reicky
+              {t.brand}
             </Text>
           </a>
           <Flex align="center" gap="4">

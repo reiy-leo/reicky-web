@@ -1,6 +1,7 @@
 import type { Messages } from "./zh";
 
 const id: Messages = {
+  brand: "reicky",
   meta: {
     title: "reicky · Catatan tempel untuk desktop",
     description: "Catatan tempel lintas platform seperti Stickies di macOS: catat teks cepat, seret file untuk menyimpan jalurnya saja, dan arsipkan alih-alih menghapus.",

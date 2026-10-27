@@ -1,6 +1,6 @@
 # AGENTS.md
 
-reicky 介绍页（reicky.rei8t.dev）。reicky 本体在另一个仓库 reiy-leo/reicky，这里只放网站。
+reicky 介绍页（reicky.rei8t.dev）。中文名「灵气贴纸」，其他语言都叫 reicky（Rei 2026-10-28 定），文案里的 `brand` 字段管这个。reicky 本体在另一个仓库 reiy-leo/reicky，这里只放网站。
 
 ## 目标与边界
 

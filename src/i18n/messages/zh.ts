@@ -1,12 +1,13 @@
 const zh = {
+  brand: "灵气贴纸",
   meta: {
-    title: "reicky · 桌面便签",
+    title: "灵气贴纸 · 桌面便签",
     description: "跨平台桌面便签，像 macOS 的便笺：随手贴文字，拖文件进来只记路径，笔记只归档不删除。",
   },
   nav: { features: "功能", sync: "同步", mcp: "AI", download: "下载", language: "语言" },
   hero: {
     title: "随手一贴，\n就在桌面上",
-    subtitle: "reicky 是跨平台的桌面便签，像 macOS 自带的便笺。纯文本，12 种颜色，拖文件进来只记路径，笔记只归档、不删除。",
+    subtitle: "灵气贴纸（reicky）是跨平台的桌面便签，像 macOS 自带的便笺。纯文本，12 种颜色，拖文件进来只记路径，笔记只归档、不删除。",
     download: (os: string) => `下载 ${os} 版`,
     downloadAll: "下载",
     other: "其他平台",
@@ -38,8 +39,8 @@ const zh = {
   },
   mcp: {
     title: "让 AI 帮你记",
-    body: "reicky 自带 MCP 服务。在 Claude、Cursor 等 MCP 客户端里加上下面这段，AI 就能列出、搜索、新建、改写便签，也能换颜色和归档。没有删除。应用开着时，AI 改完一两秒内窗口就会刷新。",
-    hint: "Windows 和 Linux 把 command 换成 reicky 可执行文件的路径。",
+    body: "灵气贴纸自带 MCP 服务。在 Claude、Cursor 等 MCP 客户端里加上下面这段，AI 就能列出、搜索、新建、改写便签，也能换颜色和归档。没有删除。应用开着时，AI 改完一两秒内窗口就会刷新。",
+    hint: "Windows 和 Linux 把 command 换成灵气贴纸（reicky）可执行文件的路径。",
     copy: "复制",
     copied: "已复制",
   },
