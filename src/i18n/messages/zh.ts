@@ -2,12 +2,12 @@ const zh = {
   brand: "灵气贴纸",
   meta: {
     title: "灵气贴纸 · 桌面便签",
-    description: "跨平台桌面便签，像 macOS 的便笺：随手贴文字，拖文件进来只记路径，笔记只归档不删除。",
+    description: "跨平台桌面便签，像 macOS 的便笺：随手贴文字，拖文件进来只记路径，贴纸只归档不删除。",
   },
   nav: { features: "功能", sync: "同步", mcp: "AI", download: "下载", language: "语言" },
   hero: {
     title: "随手一贴，\n就在桌面上",
-    subtitle: "灵气贴纸（reicky）是跨平台的桌面便签，像 macOS 自带的便笺。纯文本，12 种颜色，拖文件进来只记路径，笔记只归档、不删除。",
+    subtitle: "灵气贴纸（reicky）是跨平台的桌面便签，像 macOS 自带的便笺。纯文本，12 种颜色，拖文件进来只记路径，贴纸只归档、不删除。",
     download: (os: string) => `下载 ${os} 版`,
     downloadAll: "下载",
     other: "其他平台",
