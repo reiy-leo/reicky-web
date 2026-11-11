@@ -28,7 +28,7 @@ const fr: Messages = {
       { title: "Glisser, garder le chemin", body: "Glissez un fichier ou un dossier sur une note : seul le chemin est gardé, pas de copie. Clic pour ouvrir, ⌥ / Alt-clic pour l'afficher dans le gestionnaire de fichiers." },
       { title: "Archiver, jamais supprimer", body: "Pas de bouton supprimer. Archivez ce qui ne sert plus et restaurez-le quand vous voulez." },
       { title: "Gros texte plein écran", body: "⌘L / Ctrl+L affiche le texte sélectionné ou toute la note en plein écran. Pratique pour montrer un numéro ou un code." },
-      { title: "Tout au clavier", body: "⌘N / Ctrl+N pour une nouvelle note, ⌘S / Ctrl+S pour l'enregistrer en fichier texte. La liste s'ouvre à tout moment depuis l'icône de la barre des menus." },
+      { title: "Tout au clavier", body: "⌃⌥- / Ctrl+Alt+- crée une note depuis n'importe quelle app (modifiable dans les réglages). ⌘N / Ctrl+N pour une nouvelle note, ⌘S / Ctrl+S pour l'enregistrer en fichier texte. La liste s'ouvre à tout moment depuis l'icône de la barre des menus." },
       { title: "9 langues", body: "中文, English, 日本語, Deutsch, Français, Español, Português, Русский et Bahasa Indonesia. Suit la langue du système par défaut." },
     ],
   },

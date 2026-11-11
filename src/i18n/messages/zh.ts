@@ -26,7 +26,7 @@ const zh = {
       { title: "拖进来只记路径", body: "把文件或文件夹拖到贴纸上，只记下路径，不复制文件。单击打开，按住 ⌥ / Alt 单击在文件管理器里显示。" },
       { title: "只归档，不删除", body: "贴纸没有删除按钮。用不到了就归档，随时能翻出来恢复。" },
       { title: "全屏大字", body: "⌘L / Ctrl+L 把选中的文字或整张贴纸铺满屏幕，给对面的人看手机号、验证码很方便。" },
-      { title: "键盘就够了", body: "⌘N / Ctrl+N 新建，⌘S / Ctrl+S 存成文本文件。从菜单栏图标随时叫出列表。" },
+      { title: "键盘就够了", body: "在哪都能按 ⌃⌥- / Ctrl+Alt+- 新建一张贴纸（组合键可以在设置里改）。⌘N / Ctrl+N 新建，⌘S / Ctrl+S 存成文本文件。从菜单栏图标随时叫出列表。" },
       { title: "9 种语言", body: "中文、English、日本語、Deutsch、Français、Español、Português、Русский、Bahasa Indonesia，默认跟随系统。" },
     ],
   },

@@ -28,7 +28,7 @@ const es: Messages = {
       { title: "Arrastra y guarda la ruta", body: "Arrastra un archivo o carpeta a una nota: se guarda la ruta, no una copia. Clic para abrir, ⌥ / Alt+clic para mostrarlo en el gestor de archivos." },
       { title: "Archivar, nunca borrar", body: "No hay botón de borrar. Archiva lo que ya no uses y recupéralo cuando quieras." },
       { title: "Letra grande a pantalla completa", body: "⌘L / Ctrl+L muestra el texto seleccionado o la nota entera a pantalla completa. Útil para enseñar un número o un código." },
-      { title: "Todo con el teclado", body: "⌘N / Ctrl+N crea una nota, ⌘S / Ctrl+S la guarda como archivo de texto. Abre la lista cuando quieras desde el icono de la barra de menús." },
+      { title: "Todo con el teclado", body: "Pulsa ⌃⌥- / Ctrl+Alt+- desde cualquier app para crear una nota (se cambia en Ajustes). ⌘N / Ctrl+N crea una nota, ⌘S / Ctrl+S la guarda como archivo de texto. Abre la lista cuando quieras desde el icono de la barra de menús." },
       { title: "9 idiomas", body: "中文, English, 日本語, Deutsch, Français, Español, Português, Русский y Bahasa Indonesia. Sigue al sistema por defecto." },
     ],
   },

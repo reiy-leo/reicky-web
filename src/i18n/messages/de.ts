@@ -28,7 +28,7 @@ const de: Messages = {
       { title: "Hineinziehen, Pfad merken", body: "Zieh eine Datei oder einen Ordner auf eine Notiz: Gespeichert wird nur der Pfad, keine Kopie. Klick öffnet, ⌥ / Alt-Klick zeigt sie im Dateimanager." },
       { title: "Archivieren statt löschen", body: "Es gibt keinen Löschen-Knopf. Archiviere, was du nicht mehr brauchst, und hol es jederzeit zurück." },
       { title: "Großschrift im Vollbild", body: "⌘L / Strg+L zeigt den markierten Text oder die ganze Notiz bildschirmfüllend. Praktisch, um jemandem eine Nummer oder einen Code zu zeigen." },
-      { title: "Alles per Tastatur", body: "⌘N / Strg+N für eine neue Notiz, ⌘S / Strg+S speichert sie als Textdatei. Die Liste öffnest du jederzeit über das Menüleisten-Symbol." },
+      { title: "Alles per Tastatur", body: "⌃⌥- / Strg+Alt+- legt aus jeder App eine neue Notiz an (in den Einstellungen änderbar). ⌘N / Strg+N für eine neue Notiz, ⌘S / Strg+S speichert sie als Textdatei. Die Liste öffnest du jederzeit über das Menüleisten-Symbol." },
       { title: "9 Sprachen", body: "中文, English, 日本語, Deutsch, Français, Español, Português, Русский und Bahasa Indonesia. Standardmäßig wie das System." },
     ],
   },

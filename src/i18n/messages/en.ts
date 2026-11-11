@@ -28,7 +28,7 @@ const en: Messages = {
       { title: "Drop in, keep the path", body: "Drag a file or folder onto a note and it saves the path, not a copy. Click to open; ⌥ / Alt-click to show it in your file manager." },
       { title: "Archive, never delete", body: "There's no delete button. Archive what you're done with and restore it whenever you need it." },
       { title: "Full-screen big type", body: "⌘L / Ctrl+L fills the screen with the selected text or the whole note. Handy for showing someone a phone number or a code." },
-      { title: "Keyboard first", body: "⌘N / Ctrl+N for a new note, ⌘S / Ctrl+S to save it as a text file. Bring up the list from the menu bar icon anytime." },
+      { title: "Keyboard first", body: "Press ⌃⌥- / Ctrl+Alt+- from any app for a new note (change it in Settings). ⌘N / Ctrl+N for a new note, ⌘S / Ctrl+S to save it as a text file. Bring up the list from the menu bar icon anytime." },
       { title: "9 languages", body: "中文, English, 日本語, Deutsch, Français, Español, Português, Русский and Bahasa Indonesia. Follows your system by default." },
     ],
   },

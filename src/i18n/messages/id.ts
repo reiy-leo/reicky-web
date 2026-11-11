@@ -28,7 +28,7 @@ const id: Messages = {
       { title: "Seret, simpan jalurnya", body: "Seret file atau folder ke catatan: yang disimpan jalurnya, bukan salinan. Klik untuk membuka, ⌥ / Alt+klik untuk menampilkannya di pengelola file." },
       { title: "Arsipkan, jangan hapus", body: "Tidak ada tombol hapus. Arsipkan yang sudah tidak dipakai dan pulihkan kapan saja." },
       { title: "Huruf besar layar penuh", body: "⌘L / Ctrl+L menampilkan teks terpilih atau seluruh catatan memenuhi layar. Praktis untuk menunjukkan nomor atau kode." },
-      { title: "Cukup pakai keyboard", body: "⌘N / Ctrl+N untuk catatan baru, ⌘S / Ctrl+S untuk menyimpannya sebagai file teks. Buka daftar kapan saja dari ikon bilah menu." },
+      { title: "Cukup pakai keyboard", body: "Tekan ⌃⌥- / Ctrl+Alt+- dari aplikasi mana pun untuk catatan baru (bisa diubah di Pengaturan). ⌘N / Ctrl+N untuk catatan baru, ⌘S / Ctrl+S untuk menyimpannya sebagai file teks. Buka daftar kapan saja dari ikon bilah menu." },
       { title: "9 bahasa", body: "中文, English, 日本語, Deutsch, Français, Español, Português, Русский, dan Bahasa Indonesia. Mengikuti sistem secara bawaan." },
     ],
   },

@@ -28,7 +28,7 @@ const pt: Messages = {
       { title: "Arraste e guarde o caminho", body: "Arraste um arquivo ou pasta para uma nota: fica só o caminho, sem cópia. Clique para abrir, ⌥ / Alt+clique para mostrar no gerenciador de arquivos." },
       { title: "Arquivar, nunca apagar", body: "Não há botão de apagar. Arquive o que não usa mais e recupere quando quiser." },
       { title: "Letra grande em tela cheia", body: "⌘L / Ctrl+L mostra o texto selecionado ou a nota inteira em tela cheia. Prático para mostrar um número ou um código." },
-      { title: "Tudo pelo teclado", body: "⌘N / Ctrl+N cria uma nota, ⌘S / Ctrl+S salva como arquivo de texto. Abra a lista quando quiser pelo ícone da barra de menus." },
+      { title: "Tudo pelo teclado", body: "Pressione ⌃⌥- / Ctrl+Alt+- em qualquer app para criar uma nota (dá para mudar nas Configurações). ⌘N / Ctrl+N cria uma nota, ⌘S / Ctrl+S salva como arquivo de texto. Abra a lista quando quiser pelo ícone da barra de menus." },
       { title: "9 idiomas", body: "中文, English, 日本語, Deutsch, Français, Español, Português, Русский e Bahasa Indonesia. Segue o sistema por padrão." },
     ],
   },
